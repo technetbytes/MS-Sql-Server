@@ -1,4 +1,4 @@
-### In Both Juypter Notebook we share code through which we establish connectivity to <br>MS SQL Server.
+### In Both Juypter Notebook we share code through which we establish connectivity to <br>MS SQL Server from Ubuntu.
 
 ### Using Libraries
       ODBC Driver :- { ODBC Driver 17 for SQL Server }
